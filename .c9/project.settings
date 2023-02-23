@@ -6,6 +6,9 @@
         "@editor.suggest.preview": true,
         "@editor.suggest.showMethods": true
     },
+    "instance": {
+        "@automaticShutdown": "never"
+    },
     "language": {
         "tern_defs": {
             "json()": {
